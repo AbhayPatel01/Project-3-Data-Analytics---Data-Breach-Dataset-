@@ -2,7 +2,7 @@
 Analysing metadata on Data Breaches that have occurred. 
 
 Aims:
-  To clean, visualise, analyse a data breach dataset. 
-  To experiment with multiprocessing. 
-  To save dataset to local disk.
+  - To clean, visualise, analyse a data breach dataset. 
+  - To experiment with multiprocessing. 
+  - To save dataset to local disk.
   
